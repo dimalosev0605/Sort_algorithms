@@ -24,4 +24,7 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 HEADERS += \
     bubble_sort.h \
-    selection_sort.h
+    selection_sort.h \
+    insertion_sort.h \
+    cocktail_sort.h \
+    shell_sort.h
