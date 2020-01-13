@@ -27,4 +27,9 @@ HEADERS += \
     selection_sort.h \
     insertion_sort.h \
     cocktail_sort.h \
-    shell_sort.h
+    shell_sort.h \
+    qsort_basic.h \
+    qsort_ignore_small_chunks.h \
+    qsort_nonrecursive.h \
+    qsort.h \
+    qsort_for_many_duplicated_keys.h
