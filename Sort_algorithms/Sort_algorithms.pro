@@ -32,4 +32,5 @@ HEADERS += \
     qsort_ignore_small_chunks.h \
     qsort_nonrecursive.h \
     qsort.h \
-    qsort_for_many_duplicated_keys.h
+    qsort_for_many_duplicated_keys.h \
+    merge_sort.h
